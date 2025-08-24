@@ -22,7 +22,7 @@
 
 ![Screenshot of the project](./screenshot.png)
 
-This project is a clean and minimal business card component created using only HTML and CSS. It mimics the design of a modern business profile card with user information, contact details, and social media links—all wrapped in a visually appealing layout.
+This project is a clean and minimal business card component created using only HTML and CSS. It mimics the design of a modern business profile card with user information, contact details, and social media links all wrapped in a visually appealing layout.
 
 It was built entirely with HTML and CSS as part of the [**freeCodeCamp.org**](https://www.freecodecamp.org/learn/full-stack-developer/) CSS course.
 
